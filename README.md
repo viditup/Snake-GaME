@@ -5,12 +5,13 @@ A simple and engaging snake game developed using Java with a graphical user inte
 ## Screenshots
 
 
+![Screenshot 2024-12-22 211516](https://github.com/user-attachments/assets/ccbc58e5-cc49-4e1f-a06d-84fe800031f2)
 *Start Screen of Snake Game*
 
-
+![Screenshot 2024-12-22 211618](https://github.com/user-attachments/assets/8bdc254d-77fc-4387-be2d-e422641bda93)
 *Gameplay in Progress*
 
-  
+![Screenshot 2024-12-22 211658](https://github.com/user-attachments/assets/e17fd18b-19de-4980-8056-f2ff2e79d97d)
 *Game Over Screen*
 
 ## Project Overview
